@@ -1,0 +1,48 @@
+body {
+    font-family: Helvetica, sans-serif;
+    color: #464545;
+}
+li {
+    list-style-type: none;
+    text-align: left;
+    border: solid;
+    border-width: thin;
+    border-color: #E6E5E5;
+    box-shadow: 2px 2px 3px #E9E9E9;
+    border-radius: 3px;
+    margin: 0px 60px 0px 40px;
+    padding: 10px;
+}
+
+.totalbox {
+    border: solid;
+    border-color: #E6E5E5;
+    border-width: 1px;
+    margin: 50px 400px;
+    padding: 30px 0px 50px 0px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px #E9E9E9;
+}
+
+input {
+    margin-right: 30px;
+    border-radius: 3px;
+    border-width: 0.5px;
+    padding: 5px;
+    margin-left:25px;
+}
+
+myTask {
+    margin: 10px;
+
+}
+
+img {
+   float: right;
+   margin-right:40px;
+}
+
+
+
+
